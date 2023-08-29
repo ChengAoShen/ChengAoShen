@@ -8,7 +8,7 @@
 
 ## Contact
 
-- 📫 Email: [chengaoshen@126.com](mailto:chengaoshen@126.com)
+- 📫 Email: [contact@chengaoshen.com](mailto:contact@chengaoshen.com)
 - 🪧 Blog: [chengaoshen.com](https://chengaoshen.com)
 
 # 📈 Statistics
