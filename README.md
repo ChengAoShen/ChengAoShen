@@ -11,7 +11,7 @@
 
 ## 🤝 Let's Connect
 
-- 📫 Email: [contact@chengaoshen.com](mailto:contact@chengaoshen.com)
+- 📫 Email: [cshen9@uh.edu](mailto:cshen9@uh.edu)
 - 🌐 Personal Website: [chengaoshen.com](https://chengaoshen.com)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ChengAoShen?style=social)](https://twitter.com/chengao_shen)
