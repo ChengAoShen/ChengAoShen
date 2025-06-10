@@ -1,7 +1,7 @@
 # 👨‍🎓 About Me
 
-- 👋 Hello! I'm @ChengAoShen, a passionate Computer Science researcher and developer.
-- 🎓 Currently pursuing a PhD in Computer Science at the [University of Houston](https://www.uh.edu/).
+- 👋 Hello! I’m @ChengAoShen, a CS PhD student focusing on machine learning, time series forecasting, and multimodal intelligence.
+- 🎓 I’m currently part of the Data to Intelligence (D2I) Group at the University of Houston.
 - 🧐 Research Focus:
   - Time Series: Developing advanced techniques for forecasting and anomaly detection in complex temporal data across various domains
   - Causal Discovery: Uncovering hidden cause-effect relationships in time series data and designing innovative causal inference models
@@ -19,12 +19,6 @@
 
 [![GitHub Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2FChengAoShen&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+followers&cacheSeconds=3600)](https://github.com/ChengAoShen)
 [![Hugging Face](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%3Fauthor%3DChengAoShen&query=$.length&color=FF9D00&label=Hugging%20Face&labelColor=4B4B4B&logo=huggingface&logoColor=white&suffix=+models&cacheSeconds=3600)](https://huggingface.co/ChengAoShen)
-
-## 🚀 Featured Projects
-
-1. [Weekly Report](https://github.com/ChengAoShen/WeeklyReport): A comprehensive collection of weekly reports from my doctoral studies, showcasing the latest research progress and insights. These reports are crafted using Markdown and Marp for clear, visually appealing presentations. Furthermore, I also provide the slide template about UH and SICAU.
-
-Feel free to explore my repositories and don't hesitate to reach out for collaborations or discussions!
 
 ## 📊 GitHub Statistics
 
