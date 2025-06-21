@@ -3,9 +3,9 @@
 - 👋 Hello! I’m @ChengAoShen, a CS PhD student focusing on machine learning, time series forecasting, and multimodal intelligence.
 - 🎓 I’m currently part of the Data to Intelligence (D2I) Group at the University of Houston.
 - 🧐 Research Focus:
-  - Time Series: Developing advanced techniques for forecasting and anomaly detection in complex temporal data across various domains
-  - Causal Discovery: Uncovering hidden cause-effect relationships in time series data and designing innovative causal inference models
-  - LLMs: Harnessing the power of Large Language Models to enhance time series analysis and facilitate causal discovery in temporal data
+  - Time Series: Using machine learning to improve accuracy in time series forecasting and anomaly detection across various domains.
+  - Multi-modal Learning: Combining data from different modalities, such as text and images, to enhance time series analysis and causal reasoning.
+  - Causal Discovery: Designing data-driven approaches to identify causal relationships in complex, real-world systems.
 - 🌱 Always eager to learn and explore new technologies in the field of AI and Data Science.
 - 💼 For a comprehensive overview of my experience and skills, please check out my *[Resume](./Resume.pdf)*.
 
