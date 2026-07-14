@@ -1,7 +1,7 @@
 # 👨‍🎓 About Me
 
 - 👋 Hello! I'm @ChengAoShen, a passionate developer and researcher in AI and Data Science.
-- 🎓 I'm currently pursuing my Ph.D. in Computer Science at the University of Houston (expected graduation: 2030).
+- 🎓 I'm currently pursuing my Ph.D. in Computer Science.
 - 🧐 Research Focus: Time series forecasting, AI agent research, multi-modal learning, and causal discovery.
 - 💻 I love all kinds of engineering practice and software development — especially building software around AI agents — and I'm a big fan of Rust. 🦀
 
