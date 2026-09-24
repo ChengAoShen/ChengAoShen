@@ -1,3 +1,5 @@
+<img src="assets/avatar.jpg" alt="ChengAo Shen" width="160" align="right" />
+
 ### Hi, I'm ChengAo Shen (沈骋骜) 👋
 
 Founder of **[CatVinci Studio](https://catvinci.com)** — everyday tools, built around agents. I focus on how AI agents fit into modern office work: reading, writing, email, papers, paperwork. The goal is AI that works out of the box and quietly becomes part of your workflow, instead of yet another product to learn.
