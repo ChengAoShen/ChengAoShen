@@ -1,7 +1,7 @@
 # 👨‍🎓 About Me
 
 - 👋 Hi! I'm **ChengAo Shen (沈骋骜)**, an AI researcher who enjoys turning ideas into software people actually use.
-- 🎓 I'm a Ph.D. student in Computer Science at the [University of Houston](https://uh.edu/), working on **time series analysis** and **LLM-based agent systems**. My work has appeared at **EMNLP, NeurIPS, ACL and IJCAI**.
+- 🎓 I'm a Ph.D. student in Computer Science at the [University of Houston](https://uh.edu/), working on **time series analysis** and **agentic systems**. My work has appeared at **EMNLP, NeurIPS, ACL and IJCAI**.
 - 🐱 I founded [CatVinci Studio](https://catvinci.com) to explore what agents can do for modern office work. Our most mature project is [Levis](https://github.com/CatVinci-Studio/Levis), an open-source Markdown editor with AI built in.
 - 💬 Always happy to chat about time series, agents, or anything in between!
 
